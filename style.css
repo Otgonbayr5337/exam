@@ -1,0 +1,19 @@
+.Apple
+{
+    background:rgba(0, 0, 0, 0.8);   
+    color: white;
+    height: 44px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+}
+.img{
+height: 196.64px;
+left: 0%;
+right: 0%;
+top: 44px;
+
+}
+.section-img{
+    display: flex;
+}
